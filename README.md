@@ -1,1 +1,1 @@
-# digo
+# privacy.html
